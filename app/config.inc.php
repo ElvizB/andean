@@ -7,7 +7,7 @@ define('NOMBRE_BD', 'andean');
 
 //rutas de la web
 
-define("SERVIDOR", "http://localhost/andean");
+define("SERVIDOR", "https://elvizb.github.io/andean/");
 define("RUTA_NOSOTROS", SERVIDOR."/Nosotros");
 define("RUTA_DESTINOS", SERVIDOR."/Destinos");
 define("RUTA_CONTACTO", SERVIDOR."/Contacto");
