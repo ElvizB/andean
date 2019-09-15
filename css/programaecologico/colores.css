@@ -1,0 +1,102 @@
+.fondo{
+  background: #009e76;
+}
+
+.fondo_triangulo {
+  border-bottom: 20px solid #009e76;
+}
+
+.fondo2{
+  background: #008973;
+}
+
+.fondo_triangulo2 {
+  border-bottom: 20px solid #008973;
+}
+
+.fondo3{
+  background: #00898a;
+}
+
+.fondo_triangulo3 {
+  border-bottom: 20px solid #00898a;
+}
+
+.fondo4{
+  background: #5aa76c;
+}
+
+.fondo_triangulo4 {
+  border-bottom: 20px solid #5aa76c;
+}
+
+.fondo5{
+  background: #5b9944;
+}
+
+.fondo_triangulo5 {
+  border-bottom: 20px solid #5b9944;
+}
+
+.fondo6{
+  background: #d98959;
+}
+
+.fondo_triangulo6 {
+  border-bottom: 20px solid #d98959;
+}
+
+.fondo7{
+  background: #ff8188;
+}
+
+.fondo_triangulo7 {
+  border-bottom: 20px solid #ff8188;
+}
+
+.fondo8{
+  background: #ca638d;
+}
+
+.fondo_triangulo8 {
+  border-bottom: 20px solid #ca638d;
+}
+
+.fondo9{
+  background: #866aff;
+}
+
+.fondo_triangulo9 {
+  border-bottom: 20px solid #866aff;
+}
+
+.fondo10{
+  background: #868aff;
+}
+
+.fondo_triangulo10 {
+  border-bottom: 20px solid #868aff;
+}
+
+.fondo11{
+  background: #96a9ff;
+}
+
+.fondo_triangulo11 {
+  border-bottom: 20px solid #96a9ff;
+}
+
+.fondo_eco {
+    position: absolute;
+    z-index: 1;
+    top: 0rem;
+    left: 0rem;
+    background: #00000052;
+    padding: 5px;
+    box-sizing: border-box;
+    display: flex;
+    align-items: center;
+}
+h6{
+  font-size: .9rem !important;
+}

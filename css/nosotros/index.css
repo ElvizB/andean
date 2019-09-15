@@ -1,0 +1,7 @@
+#nosotros{
+  background: url(../../images/nosotros/bannerNosotros.jpg) no-repeat top;
+  background-attachment: fixed;
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-size: 100% 100%;
+}

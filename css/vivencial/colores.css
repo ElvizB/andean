@@ -1,0 +1,59 @@
+
+.fondo{
+  background: #d1996c;
+}
+
+.fondo_triangulo {
+  border-bottom: 20px solid #d1996c;
+}
+
+.fondo2{
+  background: #ad7d49;
+}
+
+.fondo_triangulo2 {
+  border-bottom: 20px solid #ad7d49;
+}
+
+.fondo3{
+  background: #a24242;
+}
+
+.fondo_triangulo3 {
+  border-bottom: 20px solid #a24242;
+}
+
+.fondo4{
+  background: #d98959;
+}
+
+.fondo_triangulo4 {
+  border-bottom: 20px solid #d98959;
+}
+
+.fondo5{
+  background: #ca638d;
+}
+
+.fondo_triangulo5 {
+  border-bottom: 20px solid #ca638d;
+}
+
+.fondo6{
+  background: #868aff;
+}
+
+.fondo_triangulo6 {
+  border-bottom: 20px solid #868aff;
+}
+.fondo_eco {
+  position: absolute;
+  z-index: 1;
+  top: 0rem;
+  left: 0rem;
+  background: #00000052;
+  padding: 5px;
+  box-sizing: border-box;
+  display: flex;
+  align-items: center;
+}

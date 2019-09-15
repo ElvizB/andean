@@ -1,0 +1,85 @@
+.fondo{
+  background: #da5963 ;
+}
+
+.fondo_triangulo {
+  border-bottom: 20px solid #da5963;
+}
+
+.fondo2{
+  background:  #9f5e55;
+}
+
+.fondo_triangulo2 {
+  border-bottom: 20px solid #9f5e55;
+}
+
+.fondo3{
+  background:  #009e76;
+}
+
+.fondo_triangulo3 {
+  border-bottom: 20px solid #009e76;
+}
+
+.fondo4{
+  background: #ff7929;
+}
+
+.fondo_triangulo4 {
+  border-bottom: 20px solid #ff7929;
+}
+
+.fondo5{
+  background: #0089bb;
+}
+
+.fondo_triangulo5 {
+  border-bottom: 20px solid #0089bb;
+}
+
+.fondo6{
+  background: #d1996c;
+}
+
+.fondo_triangulo6 {
+  border-bottom: 20px solid #d1996c;
+}
+
+.fondo7{
+  background: #ff7288;
+}
+
+.fondo_triangulo7 {
+  border-bottom: 20px solid #ff7288;
+}
+
+.fondo8{
+  background: #858aff;
+}
+
+.fondo_triangulo8 {
+  border-bottom: 20px solid #858aff;
+}
+
+.fondo9{
+  background: #0aa3ff;
+}
+
+.fondo_triangulo9 {
+  border-bottom: 20px solid #0aa3ff;
+}
+
+.fondo_ha {
+  position: absolute;
+  z-index: 1;
+  top: 0rem;
+  left: 0rem;
+  background: #00000052;
+  padding: 5px;
+  box-sizing: border-box;
+  display: flex;
+  align-items: center;
+  font-size: .8rem;
+}
+
