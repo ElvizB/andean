@@ -14,7 +14,7 @@ $menu_destinos='DESTINOS';
 $menu_contacto='CONTÁCTANOS';
 $menu_trabaja='TRABAJA CON NOSOTROS';
 //fin del menu
-$Inicio_bienvenido='Bienvenido a Perú2';
+$Inicio_bienvenido='Bienvenido a Perú';
 $Inicio_elige='Elige tu destino en Perú con nosotros';
 $descripcionInicio='Desde 1988, Andean Tours ha tenido el privilegio de recibir turistas de 
 diferentes partes del mundo. Nuestro principal objetivo es garantizar la 
