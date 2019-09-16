@@ -11,7 +11,7 @@ $titulo = 'Andean Tours';
 ?>
 
 <!--Carousel Wrapper-->
-<div id="carousel-example-1z" class="carousel slide carousel-fade" data-ride="carousel">
+<div id="carousel-example-1z" class="carousel slide carousel-fade z-depth-3" data-ride="carousel">
   <!--Slides-->
   <div class="carousel-inner" role="listbox">
     <!--First slide-->
@@ -44,7 +44,7 @@ $titulo = 'Andean Tours';
       <!-- Grid column -->
       <div class="col-lg-6">
 
-        <div class="waves-effect waves-light wow zoomIn" data-wow-delay="0.5s" style="cursor: auto;">
+        <div class="waves-effect waves-light wow zoomIn z-depth-2" data-wow-delay="0.5s" style="cursor: auto;">
           <img class="d-block w-100 " src="images/nosotros/N1.jpg" alt="First slide">
         </div>
       </div>
@@ -225,7 +225,7 @@ $titulo = 'Andean Tours';
 
         <div class="testimonial">
           <!--Avatar-->
-          <div class="mx-auto waves-effect waves-light wow zoomIn" data-wow-delay="0.2s" style="cursor: auto;">
+          <div class="mx-auto waves-effect waves-light wow zoomIn z-depth-2" data-wow-delay="0.2s" style="cursor: auto;">
             <img src="images/nosotros/vision.png" class="d-block w-100 z-depth-1 img-fluid">
           </div>
           <!--Content-->
@@ -241,7 +241,7 @@ $titulo = 'Andean Tours';
 
         <div class="testimonial">
           <!--Avatar-->
-          <div class="mx-auto waves-effect waves-light wow zoomIn" data-wow-delay="0.4s" style="cursor: auto;">
+          <div class="mx-auto waves-effect waves-light wow zoomIn z-depth-2" data-wow-delay="0.4s" style="cursor: auto;">
             <img src="images/nosotros/mision.jpg" class="d-block w-100 z-depth-1 img-fluid">
           </div>
           <!--Content-->
@@ -257,7 +257,7 @@ $titulo = 'Andean Tours';
 
         <div class="testimonial">
           <!--Avatar-->
-          <div class="mx-auto waves-effect waves-light wow zoomIn" data-wow-delay="0.6s" style="cursor: auto;">
+          <div class="mx-auto waves-effect waves-light wow zoomIn z-depth-2" data-wow-delay="0.6s" style="cursor: auto;">
             <img src="images/nosotros/valores.png" class="d-block w-100 z-depth-3 img-fluid">
           </div>
           <!--Content-->

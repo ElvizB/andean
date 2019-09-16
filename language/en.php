@@ -12,6 +12,7 @@ $sub_menu_lujo='Luxury Programs';
 $sub_menu_culinaria='Culinary Experience Programs';
 $menu_destinos='DESTINATIONS';
 $menu_contacto='CONTACT US';
+$menu_contacto_movil='Contac Us';
 $menu_trabaja='WORK WITH US';
 //fin del menu
 $Inicio_bienvenido='Welcome to Peru';

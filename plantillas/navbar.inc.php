@@ -24,8 +24,7 @@
 
 
         <li class="nav-item dropdown" id="open">
-          <a class="nav-link dropdown-toggle font-weight-normal white-text" ><?php echo $menu_programaviajes; ?>
-          </a>
+          <a class="nav-link dropdown-toggle font-weight-normal white-text "><?php echo $menu_programaviajes; ?></a>
 
           <div class="barra dropdown-menu dropdown-primary" id="prueba">
             <a class="dropdown-item font-weight-normal white-text" href="<?php echo RUTA_P_CULTURALES ?>"><i class="fas fa-minus mx-3"></i><?php echo $sub_menu_cul; ?></a>

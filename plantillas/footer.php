@@ -1,5 +1,5 @@
 <!-- Footer -->
-<footer class="font-small" style="background:#eeeeee">
+<footer class="font-small z-depth-2" style="background:#eeeeee">
 
     <!-- Footer Links -->
     <div class="container text-center text-md-left mt-5 py-4">
@@ -32,10 +32,10 @@
 
             <!-- Grid column -->
             <div class="col-md-3 col-lg-3 col-xl-3 mx-auto mb-md-0 mb-4">
-                <h6 class="font-weight-bold mb-4 wow fadeIn" data-wow-delay="0.4s"><?php echo $i_contactos; ?>
+                <h6 class="font-weight-bold mb-4 wow fadeIn" data-wow-delay="0.3s"><?php echo $i_contactos; ?>
                 </h6>
                 <!-- Grid column -->
-                <div class="d-md-flex wow fadeIn" data-wow-delay="0.4s">
+                <div class="d-md-flex wow fadeIn" data-wow-delay="0.3s">
                     <div class="">
                         <img src="<?php echo RUTA_IMG?>footer/ubi.png" class="" alt="Sample avatar">
                     </div>
@@ -44,7 +44,7 @@
                     </div>
                 </div>
 
-                <div class=" d-md-flex wow fadeIn" data-wow-delay="0.4s">
+                <div class=" d-md-flex wow fadeIn" data-wow-delay="0.3s">
                     <div class="">
                         <img src="<?php echo RUTA_IMG?>footer/cel.png" class="" alt="Sample avatar">
                     </div>
@@ -53,12 +53,12 @@
                     </div>
                 </div>
 
-                <div class=" d-md-flex wow fadeIn" data-wow-delay="0.4s">
+                <div class=" d-md-flex wow fadeIn" data-wow-delay="0.3s">
                     <div class="">
                         <img src="<?php echo RUTA_IMG?>footer/email.png" class="" alt="Sample avatar">
                     </div>
                     <div class="mx-2">
-                        <span>contacto@andean-tours.com</span>
+                        <span>contacto@andean-tours.com</span><br>
                         <span>incoming@andean-tours.com</span>
                     </div>
                 </div>
@@ -69,16 +69,16 @@
             <div class="col-md-3 col-lg-3 col-xl-3 mx-auto mb-4">
 
                 <!-- Social buttons -->
-                <h6 class="font-weight-bold mb-5 wow fadeIn" data-wow-delay="0.5s"><?php echo $i_miembros; ?>
+                <h6 class="font-weight-bold mb-5 wow fadeIn" data-wow-delay="0.3s"><?php echo $i_miembros; ?>
                 </h6>
 
 
                 <a class="mx-1" href="https://www.jata-net.or.jp/english/index.htm" target="_blank">
-                    <img src="<?php echo RUTA_IMG?>footer/jata.png" class="img-fluid wow flipInY" data-wow-delay="0.5s"
+                    <img src="<?php echo RUTA_IMG?>footer/jata.png" class="img-fluid wow flipInY" data-wow-delay="0.3s"
                         alt="Responsive image">
                 </a>
                 <a class="mx-1" href="https://www.asta.org/" target="_blank">
-                    <img src="<?php echo RUTA_IMG?>footer/asta.png" class="img-fluid wow flipInY" data-wow-delay="0.5s"
+                    <img src="<?php echo RUTA_IMG?>footer/asta.png" class="img-fluid wow flipInY" data-wow-delay="0.3s"
                         alt="Responsive image">
                 </a>
 
@@ -90,10 +90,10 @@
             <div class="col-md-3 col-lg-3 col-xl-3 mx-auto mb-4">
 
                 <!-- Social buttons -->
-                <h6 class="font-weight-bold mb-5 wow fadeIn" data-wow-delay="0.6s"><?php echo $i_libros; ?></h6>
+                <h6 class="font-weight-bold mb-5 wow fadeIn" data-wow-delay="0.3s"><?php echo $i_libros; ?></h6>
 
 
-                <img src="<?php echo RUTA_IMG?>footer/libro.png" class="img-fluid wow flipInY" data-wow-delay="0.6s"
+                <img src="<?php echo RUTA_IMG?>footer/libro.png" class="img-fluid wow flipInY" data-wow-delay="0.3s"
                     alt="Responsive image">
 
             </div>

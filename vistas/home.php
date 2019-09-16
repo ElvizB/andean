@@ -12,7 +12,7 @@ $titulo = 'Andean Tours';
 
 
 
-<div id="carousel-example-2" class="carousel slide carousel-fade" data-ride="carousel">
+<div id="carousel-example-2" class="carousel slide carousel-fade z-depth-3" data-ride="carousel">
   <!--Indicators-->
   <ol class="carousel-indicators">
     <li data-target="#carousel-example-2" data-slide-to="0" class="active"></li>
@@ -94,21 +94,21 @@ $titulo = 'Andean Tours';
 </div>
 <!--/.Carousel Wrapper-->
 
-<div class="container">
+<div class="container ">
 
 
   <div class="text-center py-4">
-    <h1 class="py-3 wow fadeInUp" data-wow-delay="0.3s"><?php echo $Inicio_bienvenido; ?></h1>
-    <h2 class="font-weight-bold wow fadeInUp" data-wow-delay="0.5s"><?php echo $Inicio_elige; ?></h2>
+    <h1 class="py-3 wow fadeInUp h1-responsive" data-wow-delay="0.3s"><?php echo $Inicio_bienvenido; ?></h1>
+    <h2 class="font-weight-bold wow fadeInUp h2-responsive" data-wow-delay="0.5s"><?php echo $Inicio_elige; ?></h2>
     <p class="class py-3 wow fadeInUp text-justify text-md-center" data-wow-delay="0.7s"><?php echo $descripcionInicio; ?></p>
     
   </div>
 
   <div class="row">
 
-    <div class="col-md-12 col-sm-12" id="imgweb">
+    <div class="col-md-12 col-sm-12 " id="imgweb">
 
-      <div style="display: flex;">
+      <div class="z-depth-3" style="display: flex;">
 
         <div>
 
@@ -211,7 +211,7 @@ $titulo = 'Andean Tours';
 
       </div>
 
-      <div style="display: flex;">
+      <div class="z-depth-3" style="display: flex;">
         <div >
 
           <div class="recent-project">
@@ -360,7 +360,7 @@ $titulo = 'Andean Tours';
         <a href="<?php echo RUTA_CONTACTO ?>" target="_blank">
           <img src="<?php echo RUTA_IMG?>galeria_inicio/movil/siete.jpg" class="img-fluid" alt="placeholder">
           <div class="mask flex-center waves-effect waves-light rgba-black-light">
-            <p class="white-text font-weight-bold"><?php echo $menu_contacto; ?></p>
+            <p class="white-text font-weight-bold"><?php echo $menu_contacto_movil; ?></p>
           </div>
         </a>
       </div>

@@ -131,7 +131,7 @@ $titulo = 'Andean Tours';
 
 <div id="contacto">
 
-  <div class="container">
+  <div class="container ">
 
     <!-- Section: Contact v.1 -->
     <section>

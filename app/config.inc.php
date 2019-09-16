@@ -7,6 +7,8 @@ define('NOMBRE_BD', 'andean');
 
 //rutas de la web
 
+//define("SERVIDOR", "https://andean.herokuapp.com/");
+//define("SERVIDOR", "http://localhost/andean/");
 define("SERVIDOR", "https://andean.herokuapp.com/");
 define("RUTA_NOSOTROS", SERVIDOR."Nosotros");
 define("RUTA_DESTINOS", SERVIDOR."Destinos");
