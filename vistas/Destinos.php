@@ -154,150 +154,152 @@ $titulo = 'Andean Tours';
 
             <div class="content-items ">
 
-              <div class="view overlay" style="position:static !important">
-                <div data-value='st15' class='item-map ' style="width: 258px; height: 76px; z-index: 1; left: 31px; top: 21px; position: absolute; display: inline-block;">
-                  <img class="wow flipInY z-depth-3" data-wow-delay="0.1s"  style="width: 258px; height: 76px;" src="<?php echo RUTA_IMG?>destinos/lugares/cusco.png">
-                  <div class="mask flex-center rgba-black-light">
-                    <p class="white-text">Cusco</p>
+                <div class="view" style="position:static !important">
+                  <div data-value='st15' class='item-map ' style="width: 258px; height: 76px; z-index: 1; left: 31px; top: 21px; position: absolute; display: inline-block;">
+                    <img class="z-depth-3" style="width: 258px; height: 76px;" src="<?php echo RUTA_IMG?>destinos/lugares/cusco.png">
+                    <div class="stripe">
+                      <a>
+                        <p class="text-left h5-responsive">Cusco</p>
+                      </a>
+                    </div>
                   </div>
                 </div>
-              </div>
 
-              <div class="view overlay" style="position:static !important">
-                <div data-value='st6' class='item-map' style="width: 258px; height: 76px; z-index: 2; left: 32.0234px; top: 115px; position: absolute; display: inline-block;">
-                  <img class="wow flipInY z-depth-3" data-wow-delay="0.1s" style="width: 258px; height: 76px;" src="<?php echo RUTA_IMG?>destinos/lugares/lima.png">
-                  <div class="mask flex-center rgba-black-light">
-                    <p class="white-text">Lima</p>
+                <div class="view overlay" style="position:static !important">
+                  <div data-value='st6' class='item-map' style="width: 258px; height: 76px; z-index: 2; left: 32.0234px; top: 115px; position: absolute; display: inline-block;">
+                    <img class="wow flipInY z-depth-3" data-wow-delay="0.1s" style="width: 258px; height: 76px;" src="<?php echo RUTA_IMG?>destinos/lugares/lima.png">
+                    <div class="mask flex-center rgba-black-light">
+                      <p class="white-text">Lima</p>
+                    </div>
                   </div>
                 </div>
-              </div>
 
-              <div class="view overlay" style="position:static !important">
-                <div data-value='st11' class='item-map' style="width: 258px; height: 76px; z-index: 3; left: 32px; top: 212px; position: absolute; display: inline-block;">
-                  <img class="wow flipInY z-depth-3" data-wow-delay="0.2s" style="width: 258px; height: 76px;" src="<?php echo RUTA_IMG?>destinos/lugares/arequipa.png">
-                  <div class="mask flex-center rgba-black-light">
-                    <p class="white-text">Arequipa</p>
+                <div class="view overlay" style="position:static !important">
+                  <div data-value='st11' class='item-map' style="width: 258px; height: 76px; z-index: 3; left: 32px; top: 212px; position: absolute; display: inline-block;">
+                    <img class="wow flipInY z-depth-3" data-wow-delay="0.2s" style="width: 258px; height: 76px;" src="<?php echo RUTA_IMG?>destinos/lugares/arequipa.png">
+                    <div class="mask flex-center rgba-black-light">
+                      <p class="white-text">Arequipa</p>
+                    </div>
                   </div>
                 </div>
-              </div>
 
-              <div class="view overlay" style="position:static !important">
-                <div data-value='st10' class='item-map' style="width: 258px; height: 76px; z-index: 4; left: 32.6593px; top: 315px; position: absolute; display: inline-block;">
-                  <img class="wow flipInY z-depth-3" data-wow-delay="0.3s" style="width: 258px; height: 76px;" src="<?php echo RUTA_IMG?>destinos/lugares/colca.png">
-                  <div class="mask flex-center rgba-black-light">
-                    <p class="white-text">Colca</p>
+                <div class="view overlay" style="position:static !important">
+                  <div data-value='st10' class='item-map' style="width: 258px; height: 76px; z-index: 4; left: 32.6593px; top: 315px; position: absolute; display: inline-block;">
+                    <img class="wow flipInY z-depth-3" data-wow-delay="0.3s" style="width: 258px; height: 76px;" src="<?php echo RUTA_IMG?>destinos/lugares/colca.png">
+                    <div class="mask flex-center rgba-black-light">
+                      <p class="white-text">Colca</p>
+                    </div>
                   </div>
                 </div>
-              </div>
 
-              <div class="view overlay" style="position:static !important">
-                <div data-value='st16' class='item-map' style="width: 258px; height: 76px; z-index: 5; left: 32px; top: 412.5px; position: absolute; display: inline-block;">
-                  <img  class="wow flipInY z-depth-3" data-wow-delay="0.4s" style="width: 258px; height: 76px;" src="<?php echo RUTA_IMG?>destinos/lugares/puno.png">
-                  <div class="mask flex-center rgba-black-light">
-                    <p class="white-text">Puno</p>
+                <div class="view overlay" style="position:static !important">
+                  <div data-value='st16' class='item-map' style="width: 258px; height: 76px; z-index: 5; left: 32px; top: 412.5px; position: absolute; display: inline-block;">
+                    <img  class="wow flipInY z-depth-3" data-wow-delay="0.4s" style="width: 258px; height: 76px;" src="<?php echo RUTA_IMG?>destinos/lugares/puno.png">
+                    <div class="mask flex-center rgba-black-light">
+                      <p class="white-text">Puno</p>
+                    </div>
                   </div>
                 </div>
-              </div>
 
-              <div class="view overlay" style="position:static !important">
-                <div data-value='st5' class='item-map' style="width: 258px; height: 76px; z-index: 14; left: 31px; top: 516px; position: absolute; display: inline-block;">
-                  <img  class="wow flipInY z-depth-3" data-wow-delay="0.5s" style="width: 258px; height: 76px;" src="<?php echo RUTA_IMG?>destinos/lugares/huaraz.png">
-                  <div class="mask flex-center rgba-black-light">
-                    <p class="white-text">Huaraz</p>
+                <div class="view overlay" style="position:static !important">
+                  <div data-value='st5' class='item-map' style="width: 258px; height: 76px; z-index: 14; left: 31px; top: 516px; position: absolute; display: inline-block;">
+                    <img  class="wow flipInY z-depth-3" data-wow-delay="0.5s" style="width: 258px; height: 76px;" src="<?php echo RUTA_IMG?>destinos/lugares/huaraz.png">
+                    <div class="mask flex-center rgba-black-light">
+                      <p class="white-text">Huaraz</p>
+                    </div>
                   </div>
                 </div>
-              </div>
 
-              <div class="view overlay" style="position:static !important">
-                <div data-value='st9' class='item-map' style="width: 258px; height: 76px; z-index: 13; left: 31px; top: 613px; position: absolute; display: inline-block;">
-                  <img  class="wow flipInY z-depth-3" data-wow-delay="0.6s" style="width: 258px; height: 76px;" src="<?php echo RUTA_IMG?>destinos/lugares/ayacucho.png">
-                  <div class="mask flex-center rgba-black-light">
-                    <p class="white-text">Ayacucho</p>
+                <div class="view overlay" style="position:static !important">
+                  <div data-value='st9' class='item-map' style="width: 258px; height: 76px; z-index: 13; left: 31px; top: 613px; position: absolute; display: inline-block;">
+                    <img  class="wow flipInY z-depth-3" data-wow-delay="0.6s" style="width: 258px; height: 76px;" src="<?php echo RUTA_IMG?>destinos/lugares/ayacucho.png">
+                    <div class="mask flex-center rgba-black-light">
+                      <p class="white-text">Ayacucho</p>
+                    </div>
                   </div>
                 </div>
-              </div>
 
-              <div class="view overlay" style="position:static !important">
-                <div data-value='st7' class='item-map' style="width: 258px; height: 76px; z-index: 6; left: 32px; top: 718px; position: absolute; display: inline-block;">
-                  <img  class="wow flipInY z-depth-3" data-wow-delay="0.7s" style="width: 258px; height: 76px;" src="<?php echo RUTA_IMG?>destinos/lugares/islasballestas.png">
-                  <div class="mask flex-center rgba-black-light">
-                    <p class="white-text">IslasBallestas</p>
+                <div class="view overlay" style="position:static !important">
+                  <div data-value='st7' class='item-map' style="width: 258px; height: 76px; z-index: 6; left: 32px; top: 718px; position: absolute; display: inline-block;">
+                    <img  class="wow flipInY z-depth-3" data-wow-delay="0.7s" style="width: 258px; height: 76px;" src="<?php echo RUTA_IMG?>destinos/lugares/islasballestas.png">
+                    <div class="mask flex-center rgba-black-light">
+                      <p class="white-text">IslasBallestas</p>
+                    </div>
                   </div>
                 </div>
-              </div>
 
-              <div class="view overlay" style="position:static !important">
-                <div data-value='st8' class='item-map' style="width: 258px; height: 76px; z-index: 9; left: 996.468px; top: 20px; position: absolute; display: inline-block;">
-                  <img class="wow flipInY z-depth-3" data-wow-delay="0.8s" style="width: 258px; height: 76px;" src="<?php echo RUTA_IMG?>destinos/lugares/nazca.png">
-                  <div class="mask flex-center rgba-black-light">
-                    <p class="white-text">Nazca</p>
+                <div class="view overlay" style="position:static !important">
+                  <div data-value='st8' class='item-map' style="width: 258px; height: 76px; z-index: 9; left: 996.468px; top: 20px; position: absolute; display: inline-block;">
+                    <img class="wow flipInY z-depth-3" data-wow-delay="0.8s" style="width: 258px; height: 76px;" src="<?php echo RUTA_IMG?>destinos/lugares/nazca.png">
+                    <div class="mask flex-center rgba-black-light">
+                      <p class="white-text">Nazca</p>
+                    </div>
                   </div>
                 </div>
-              </div>
 
-              <div class="view overlay" style="position:static !important">
-                <div data-value='st14' class='item-map' style="width: 258px; height: 76px; z-index: 7; left: 996px; top: 115px; position: absolute; display: inline-block;">
-                  <img class="wow flipInY z-depth-3" data-wow-delay="0.9s" style="width: 258px; height: 76px;" src="<?php echo RUTA_IMG?>destinos/lugares/manu.png">
-                  <div class="mask flex-center rgba-black-light">
-                    <p class="white-text">Manu</p>
+                <div class="view overlay" style="position:static !important">
+                  <div data-value='st14' class='item-map' style="width: 258px; height: 76px; z-index: 7; left: 996px; top: 115px; position: absolute; display: inline-block;">
+                    <img class="wow flipInY z-depth-3" data-wow-delay="0.9s" style="width: 258px; height: 76px;" src="<?php echo RUTA_IMG?>destinos/lugares/manu.png">
+                    <div class="mask flex-center rgba-black-light">
+                      <p class="white-text">Manu</p>
+                    </div>
                   </div>
                 </div>
-              </div>
 
-              <div class="view overlay" style="position:static !important">
-                <div data-value='st12' class='item-map' style="width: 258px; height: 76px; z-index: 11; left: 996px; top: 212px; position: absolute; display: inline-block;">
-                  <img class="wow flipInY z-depth-3" data-wow-delay="1s" style="width: 258px; height: 76px;" src="<?php echo RUTA_IMG?>destinos/lugares/amazonas.png">
-                  <div class="mask flex-center rgba-black-light">
-                    <p class="white-text">Amazonas</p>
+                <div class="view overlay" style="position:static !important">
+                  <div data-value='st12' class='item-map' style="width: 258px; height: 76px; z-index: 11; left: 996px; top: 212px; position: absolute; display: inline-block;">
+                    <img class="wow flipInY z-depth-3" data-wow-delay="1s" style="width: 258px; height: 76px;" src="<?php echo RUTA_IMG?>destinos/lugares/amazonas.png">
+                    <div class="mask flex-center rgba-black-light">
+                      <p class="white-text">Amazonas</p>
+                    </div>
                   </div>
                 </div>
-              </div>
 
-              <div class="view overlay" style="position:static !important">
-                <div data-value='st13' class='item-map' style="width: 258px; height: 76px; z-index: 15; left: 996px; top: 315.583px; position: absolute; display: inline-block;">
-                  <img class="wow flipInY z-depth-3" data-wow-delay="1.1s" style="width: 258px; height: 76px;" src="<?php echo RUTA_IMG?>destinos/lugares/iquitos.png">
-                  <div class="mask flex-center rgba-black-light">
-                    <p class="white-text">Iquitos</p>
+                <div class="view overlay" style="position:static !important">
+                  <div data-value='st13' class='item-map' style="width: 258px; height: 76px; z-index: 15; left: 996px; top: 315.583px; position: absolute; display: inline-block;">
+                    <img class="wow flipInY z-depth-3" data-wow-delay="1.1s" style="width: 258px; height: 76px;" src="<?php echo RUTA_IMG?>destinos/lugares/iquitos.png">
+                    <div class="mask flex-center rgba-black-light">
+                      <p class="white-text">Iquitos</p>
+                    </div>
                   </div>
                 </div>
-              </div>
 
-              <div class="view overlay" style="position:static !important">
-                <div data-value='st4' class='item-map' style="width: 258px; height: 76px; z-index: 10; left: 996px; top: 412.5px; position: absolute; display: inline-block;">
-                  <img class="wow flipInY z-depth-3" data-wow-delay="1.2s" style="width: 258px; height: 76px;" src="<?php echo RUTA_IMG?>destinos/lugares/trujillo.png">
-                  <div class="mask flex-center rgba-black-light">
-                    <p class="white-text">Trujillo</p>
+                <div class="view overlay" style="position:static !important">
+                  <div data-value='st4' class='item-map' style="width: 258px; height: 76px; z-index: 10; left: 996px; top: 412.5px; position: absolute; display: inline-block;">
+                    <img class="wow flipInY z-depth-3" data-wow-delay="1.2s" style="width: 258px; height: 76px;" src="<?php echo RUTA_IMG?>destinos/lugares/trujillo.png">
+                    <div class="mask flex-center rgba-black-light">
+                      <p class="white-text">Trujillo</p>
+                    </div>
                   </div>
                 </div>
-              </div>
 
-              <div class="view overlay" style="position:static !important">
-                <div data-value='st3' class='item-map' style="width: 258px; height: 76px; z-index: 16; left: 996px; top: 516px; position: absolute; display: inline-block;">
-                  <img class="wow flipInY z-depth-3" data-wow-delay="1.3s" style="width: 258px; height: 76px;" src="<?php echo RUTA_IMG?>destinos/lugares/chiclayo.png">
-                  <div class="mask flex-center rgba-black-light">
-                    <p class="white-text">Chiclayo</p>
+                <div class="view overlay" style="position:static !important">
+                  <div data-value='st3' class='item-map' style="width: 258px; height: 76px; z-index: 16; left: 996px; top: 516px; position: absolute; display: inline-block;">
+                    <img class="wow flipInY z-depth-3" data-wow-delay="1.3s" style="width: 258px; height: 76px;" src="<?php echo RUTA_IMG?>destinos/lugares/chiclayo.png">
+                    <div class="mask flex-center rgba-black-light">
+                      <p class="white-text">Chiclayo</p>
+                    </div>
                   </div>
                 </div>
-              </div>
 
-              <div class="view overlay" style="position:static !important">
-                <div data-value='st2' class='item-map' style="width: 258px; height: 76px; z-index: 8; left: 996px; top: 613.395px; position: absolute; display: inline-block;">
-                  <img class="wow flipInY z-depth-3" data-wow-delay="1.4s" style="width: 258px; height: 76px;" src="<?php echo RUTA_IMG?>destinos/lugares/mancora.png">
-                  <div class="mask flex-center rgba-black-light">
-                    <p class="white-text">Mancora</p>
+                <div class="view overlay" style="position:static !important">
+                  <div data-value='st2' class='item-map' style="width: 258px; height: 76px; z-index: 8; left: 996px; top: 613.395px; position: absolute; display: inline-block;">
+                    <img class="wow flipInY z-depth-3" data-wow-delay="1.4s" style="width: 258px; height: 76px;" src="<?php echo RUTA_IMG?>destinos/lugares/mancora.png">
+                    <div class="mask flex-center rgba-black-light">
+                      <p class="white-text">Mancora</p>
+                    </div>
                   </div>
                 </div>
-              </div>
 
-              <div class="view overlay" style="position:static !important">
-                <div data-value='st1' class='item-map' style="width: 258px; height: 76px; z-index: 12; left: 996px; top: 718px; position: absolute; display: inline-block;">
-                  <img class="wow flipInY z-depth-3" data-wow-delay="1.5s" style="width: 258px; height: 76px;" src="<?php echo RUTA_IMG?>destinos/lugares/tumbes.png">
+                <div class="view overlay" style="position:static !important">
+                  <div data-value='st1' class='item-map' style="width: 258px; height: 76px; z-index: 12; left: 996px; top: 718px; position: absolute; display: inline-block;">
+                    <img class="wow flipInY z-depth-3" data-wow-delay="1.5s" style="width: 258px; height: 76px;" src="<?php echo RUTA_IMG?>destinos/lugares/tumbes.png">
 
-                  <div class="mask flex-center rgba-black-light">
-                    <p class="white-text">Tumbes</p>
+                    <div class="mask flex-center rgba-black-light">
+                      <p class="white-text">Tumbes</p>
+                    </div>
                   </div>
                 </div>
-              </div>
 
             </div>
             <div id='content-starts'>
