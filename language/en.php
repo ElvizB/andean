@@ -432,3 +432,5 @@ $p_av_tar_content17='Under this program the Salcantay Walk to Machupicchu is mad
 
 $p_av_Consubtitle='Do you want to know these wonders of Nature? Dont think about it anymore and';
 $p_av_contact='CONTACT US';
+
+$pdf_idiomas = 'pdf/en/ingles.pdf';

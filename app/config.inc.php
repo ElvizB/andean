@@ -26,4 +26,3 @@ define("RUTA_P_CULINARIA", SERVIDOR."ProgramasDeExperienciaCulinaria");
 define("RUTA_CSS", SERVIDOR . "css/");
 define("RUTA_JS", SERVIDOR . "js/");
 define("RUTA_IMG", SERVIDOR . "images/");
-

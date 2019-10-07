@@ -433,6 +433,5 @@ $p_av_tar_content17='Bajo este programa se realiza la Caminata al Salcantay con 
 $p_av_Consubtitle='¿Quieres conocer estas maravillas de la Naturaleza? No lo pienses más y';
 $p_av_contact='CONTÁCTANOS';
 
-
-
-
+//pdf -ingles e español
+$pdf_idiomas = 'pdf/es/espanol.pdf';
