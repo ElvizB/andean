@@ -435,3 +435,21 @@ $p_av_contact='CONTÁCTANOS';
 
 //pdf -ingles e español
 $pdf_idiomas = 'pdf/es/espanol.pdf';
+
+//pdf - ProgramasCulturales
+$pdf_Cusco_Express = 'pdf/es/ProgramasCulturales/Cusco_Express_5dias_AT.pdf';
+$pdf_Andes_Reales = 'pdf/es/ProgramasCulturales/Andes_Reales_6dias_AT.pdf';
+$pdf_Antiguas_Civilizaciones = 'pdf/es/ProgramasCulturales/Antiguas_Civilizaciones_10dias_AT.pdf';
+$pdf_Quechuas_y_Aymaras = 'pdf/es/ProgramasCulturales/Quechuas_y_Aymaras_10dias_AT.pdf';
+$pdf_Circuito_Dorado = 'pdf/es/ProgramasCulturales/Circuito_Dorado_13dias_AT.pdf';
+$pdf_Peru_Andino = 'pdf/es/ProgramasCulturales/Peru_Andino_14dias_AT.pdf';
+$pdf_Expedicion_Peru = 'pdf/es/ProgramasCulturales/Expedicion_Peru_17dias_AT.pdf';
+
+//pdf - ProgramasEcologicosyNaturaleza
+$pdf_Hacienda_Concepcion = 'pdf/es/ProgramasEcologicosyNaturaleza/PEM_Hacienda_Concepcion_4d3n_AT_ES.pdf';
+$pdf_Reserva_Amazonica = 'pdf/es/ProgramasEcologicosyNaturaleza/PEM_Reserva_Amazonica_4d3n_AT_ES.pdf';
+$pdf_Refugio_Amazonas = 'pdf/es/ProgramasEcologicosyNaturaleza/PEM_Refugio_Amazonas_4d3n_AT_ES.pdf';
+$pdf_Posada_Amazonas = 'pdf/es/ProgramasEcologicosyNaturaleza/PEM_Posada_Amazonas_4d3n_AT_ES.pdf';
+$pdf_TRC =              'pdf/es/ProgramasEcologicosyNaturaleza/PEM_TRC_4d3n_AT_ES.pdf';
+$pdf_Corto_Maltes =     'pdf/es/ProgramasEcologicosyNaturaleza/PEM_Corto_Maltes_4d3n_AT_ES.pdf';
+$pdf_Eco_Amazonia =     'pdf/es/ProgramasEcologicosyNaturaleza/PEM_Eco_Amazonia_4d3n_AT_ES.pdf';

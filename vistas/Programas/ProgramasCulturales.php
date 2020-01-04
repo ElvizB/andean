@@ -71,7 +71,7 @@ $titulo = 'Andean Tours - Programas Culturales';
                                 </div>
 
                                 <div class="col-lg-12">
-                                    <a href="<?php echo $pdf_idiomas; ?>" target="_blank">
+                                    <a href="<?php echo $pdf_Cusco_Express; ?>" target="_blank">
                                         <p class="p_boton white-text pt-2 font-weight-bold"><?php echo $btn_info; ?></p>
                                     </a>
                                 </div>
@@ -124,7 +124,7 @@ $titulo = 'Andean Tours - Programas Culturales';
                                 </div>
 
                                 <div class="col-lg-12">
-                                    <a href="" target="_blank">
+                                    <a href="<?php echo $pdf_Andes_Reales; ?>" target="_blank">
                                         <p class="lang p_boton white-text pt-2 font-weight-bold">
                                             <?php echo $btn_info; ?></p>
                                     </a>
@@ -176,7 +176,7 @@ $titulo = 'Andean Tours - Programas Culturales';
                                 </div>
 
                                 <div class="col-lg-12">
-                                    <a href="">
+                                    <a href="<?php echo $pdf_Antiguas_Civilizaciones; ?>" target="_blank">
                                         <p class="lang p_boton white-text pt-2 font-weight-bold">
                                             <?php echo $btn_info; ?></p>
                                     </a>
@@ -227,7 +227,7 @@ $titulo = 'Andean Tours - Programas Culturales';
                                 </div>
 
                                 <div class="col-lg-12">
-                                    <a href="">
+                                    <a href="<?php echo $pdf_Quechuas_y_Aymaras; ?>" target="_blank">
                                         <p class="lang p_boton white-text pt-2 font-weight-bold">
                                             <?php echo $btn_info; ?></p>
                                     </a>
@@ -281,7 +281,7 @@ $titulo = 'Andean Tours - Programas Culturales';
                                 </div>
 
                                 <div class="col-lg-12">
-                                    <a href="">
+                                    <a href="<?php echo $pdf_Circuito_Dorado; ?>" target="_blank">
                                         <p class="lang p_boton white-text pt-2 font-weight-bold">
                                             <?php echo $btn_info; ?></p>
                                     </a>
@@ -335,7 +335,7 @@ $titulo = 'Andean Tours - Programas Culturales';
                                 </div>
 
                                 <div class="col-lg-12">
-                                    <a href="">
+                                    <a href="<?php echo $pdf_Peru_Andino; ?>" target="_blank">
                                         <p class="lang p_boton white-text pt-2 font-weight-bold">
                                             <?php echo $btn_info; ?></p>
                                     </a>
@@ -388,7 +388,7 @@ $titulo = 'Andean Tours - Programas Culturales';
                                 </div>
 
                                 <div class="col-lg-12">
-                                    <a href="">
+                                    <a href="<?php echo $pdf_Expedicion_Peru; ?>" target="_blank">
                                         <p class="lang p_boton white-text pt-2 font-weight-bold">
                                             <?php echo $btn_info; ?></p>
                                     </a>
