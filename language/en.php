@@ -321,7 +321,7 @@ $p_e_tar_content10='Experience a trip through the Peruvian jungle through the Ar
 //fin-tarjeta
 
 //tarjeta
-$p_e_tar_day11='5 DAYS / 3 NIGHTS ';
+$p_e_tar_day11='5 DAYS / 4 NIGHTS ';
 $p_e_tar_content11='Through this program you will be able to know the history of the Chachapoyas culture. Also could revive the beautiful Gocta waterfall and observe the sarcophagi of Karajia...';
 //fin-tarjeta
 

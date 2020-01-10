@@ -423,7 +423,7 @@ $titulo = 'Andean Tours';
                                 </div>
 
                                 <div class="col-lg-12">
-                                    <a href="">
+                                    <a href="<?php echo $pdf_MANU_zona; ?>" target="_blank">
                                         <p class="p_boton white-text pt-2 font-weight-bold"><?php echo $btn_info; ?></p>
                                     </a>
                                 </div>
@@ -472,7 +472,7 @@ $titulo = 'Andean Tours';
                                 </div>
 
                                 <div class="col-lg-12">
-                                    <a href="">
+                                    <a href="<?php echo $pdf_Crucero_Delfin; ?>" target="_blank">
                                         <p class="p_boton white-text pt-2 font-weight-bold"><?php echo $btn_info; ?></p>
                                     </a>
                                 </div>
@@ -519,7 +519,7 @@ $titulo = 'Andean Tours';
                                     <img class="pb-3" src="images/dow.png" alt="First slide">
                                 </div>
                                 <div class="col-lg-12">
-                                    <a href="">
+                                    <a href="<?php echo $pdf_Crucero_Aria_Amazonas; ?>" target="_blank">
                                         <p class="p_boton white-text pt-2 font-weight-bold"><?php echo $btn_info; ?></p>
                                     </a>
                                 </div>
@@ -568,7 +568,7 @@ $titulo = 'Andean Tours';
                                 </div>
 
                                 <div class="col-lg-12">
-                                    <a href="">
+                                    <a href="<?php echo $pdf_Amazonas_Kuelap; ?>" target="_blank">
                                         <p class="p_boton white-text pt-2 font-weight-bold"><?php echo $btn_info; ?></p>
                                     </a>
                                 </div>

@@ -323,7 +323,7 @@ $p_e_tar_content10='Experimente un viaje por la selva peruana a traves del cruce
 //fin-tarjeta
 
 //tarjeta
-$p_e_tar_day11='5 DÍAS / 3 NOCHES';
+$p_e_tar_day11='5 DÍAS / 4 NOCHES';
 $p_e_tar_content11='A traves de este programa podra conocer la historia de la cultura Chachapoyas. Tambien podravisita la hermosa catarata Gocta y observar los sarcófagos de Karajia...';
 //fin-tarjeta
 
@@ -446,10 +446,14 @@ $pdf_Peru_Andino = 'pdf/es/ProgramasCulturales/Peru_Andino_14dias_AT.pdf';
 $pdf_Expedicion_Peru = 'pdf/es/ProgramasCulturales/Expedicion_Peru_17dias_AT.pdf';
 
 //pdf - ProgramasEcologicosyNaturaleza
-$pdf_Hacienda_Concepcion = 'pdf/es/ProgramasEcologicosyNaturaleza/PEM_Hacienda_Concepcion_4d3n_AT_ES.pdf';
-$pdf_Reserva_Amazonica = 'pdf/es/ProgramasEcologicosyNaturaleza/PEM_Reserva_Amazonica_4d3n_AT_ES.pdf';
-$pdf_Refugio_Amazonas = 'pdf/es/ProgramasEcologicosyNaturaleza/PEM_Refugio_Amazonas_4d3n_AT_ES.pdf';
-$pdf_Posada_Amazonas = 'pdf/es/ProgramasEcologicosyNaturaleza/PEM_Posada_Amazonas_4d3n_AT_ES.pdf';
-$pdf_TRC =              'pdf/es/ProgramasEcologicosyNaturaleza/PEM_TRC_4d3n_AT_ES.pdf';
-$pdf_Corto_Maltes =     'pdf/es/ProgramasEcologicosyNaturaleza/PEM_Corto_Maltes_4d3n_AT_ES.pdf';
-$pdf_Eco_Amazonia =     'pdf/es/ProgramasEcologicosyNaturaleza/PEM_Eco_Amazonia_4d3n_AT_ES.pdf';
+$pdf_Hacienda_Concepcion =      'pdf/es/ProgramasEcologicosyNaturaleza/PEM_Hacienda_Concepcion_4d3n_AT_ES.pdf';
+$pdf_Reserva_Amazonica =        'pdf/es/ProgramasEcologicosyNaturaleza/PEM_Reserva_Amazonica_4d3n_AT_ES.pdf';
+$pdf_Refugio_Amazonas =         'pdf/es/ProgramasEcologicosyNaturaleza/PEM_Refugio_Amazonas_4d3n_AT_ES.pdf';
+$pdf_Posada_Amazonas =          'pdf/es/ProgramasEcologicosyNaturaleza/PEM_Posada_Amazonas_4d3n_AT_ES.pdf';
+$pdf_TRC =                      'pdf/es/ProgramasEcologicosyNaturaleza/PEM_TRC_4d3n_AT_ES.pdf';
+$pdf_Corto_Maltes =             'pdf/es/ProgramasEcologicosyNaturaleza/PEM_Corto_Maltes_4d3n_AT_ES.pdf';
+$pdf_Eco_Amazonia =             'pdf/es/ProgramasEcologicosyNaturaleza/PEM_Eco_Amazonia_4d3n_AT_ES.pdf';
+$pdf_MANU_zona =                'pdf/es/ProgramasEcologicosyNaturaleza/MANU_zona-cultural_4d3n_AT_ES.pdf';
+$pdf_Crucero_Delfin =                'pdf/es/ProgramasEcologicosyNaturaleza/Crucero_Delfin_I_Amazonas_4d3n_AT_ES.pdf';
+$pdf_Crucero_Aria_Amazonas =    'pdf/es/ProgramasEcologicosyNaturaleza/Crucero_Aria_Amazonas_4d3n_AT_ES.pdf';
+$pdf_Amazonas_Kuelap =    'pdf/es/ProgramasEcologicosyNaturaleza/Amazonas_Kuelap_5d4n_AT_ES.pdf';
