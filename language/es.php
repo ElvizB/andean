@@ -457,3 +457,12 @@ $pdf_MANU_zona =                'pdf/es/ProgramasEcologicosyNaturaleza/MANU_zona
 $pdf_Crucero_Delfin =                'pdf/es/ProgramasEcologicosyNaturaleza/Crucero_Delfin_I_Amazonas_4d3n_AT_ES.pdf';
 $pdf_Crucero_Aria_Amazonas =    'pdf/es/ProgramasEcologicosyNaturaleza/Crucero_Aria_Amazonas_4d3n_AT_ES.pdf';
 $pdf_Amazonas_Kuelap =    'pdf/es/ProgramasEcologicosyNaturaleza/Amazonas_Kuelap_5d4n_AT_ES.pdf';
+
+//pdf - ProgramasEcologicosyNaturaleza
+$pdf_Camino_Inca_ =      'pdf/es/ProgramasAventura/Camino_Inca_4d3n_AT_ES.pdf';
+$pdf_Camino_Inca2 =      'pdf/es/ProgramasAventura/Camino_Inca_2d1n_AT_ES.pdf';
+$pdf_Salkantaytrek =      'pdf/es/ProgramasAventura/Salkantaytrek_5d4n_AT_ES.pdf';
+$pdf_Lares_trek =      'pdf/es/ProgramasAventura/Lares_trek_4d3n_AT_ES.pdf';
+$pdf_Choquequirao_trek =      'pdf/es/ProgramasAventura/Choquequirao_trek_4d3n_AT_ES.pdf';
+$pdf_Vinincuca =      'pdf/es/ProgramasAventura/Vinincuca_FD_AT_ES.pdf';
+$pdf_Palcoyo =      'pdf/es/ProgramasAventura/Palcoyo_FD_AT_ES.pdf';
