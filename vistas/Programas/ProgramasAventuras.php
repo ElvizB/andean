@@ -788,58 +788,6 @@ $titulo = 'Andean Tours';
                 <div class="card wow zoomIn" data-wow-delay="0.2s">
                     <!--Card image-->
                     <div class="waves-effect waves-light zoom" style="cursor: auto;">
-                        <img class="w-100" src="images/aventura/a15.jpg" alt="First slide">
-                        <div class="fondo15 fondo_day_descrip">
-                            <span class="white-text font-weight-bold"><?php echo $p_av_tar_day15; ?></span>
-                        </div>
-                    </div>
-                    <!--Card content-->
-                    <div class="card-body fondo15">
-                        <!--Title-->
-                        <div class="triangulo_figura fondo_triangulo15"></div>
-                        <h6 class="card-title white-text font-weight-bold p_titulo">SANTA CRUZ TREK</h6>
-                        <span class="card-title white-text p_subtitulo">Huaraz</span>
-                        <!--Text-->
-                    </div>
-
-                    <div class="d-flex flex-row">
-                        <div class="w-80 fondo-secundary">
-                            <div class="card-body">
-                                <p class="card-title white-text text-justify p_descrip">
-                                    <?php echo $p_av_tar_content15; ?></p>
-                                <!--Text-->
-                            </div>
-
-                        </div>
-                        <div class="w-20 flex-shrink-1 fondo-tercero">
-
-                            <div class="">
-                                <div class="col-lg-12 text-center line pt-3">
-                                    <img class="pb-3" src="images/dow.png" alt="First slide">
-                                </div>
-
-                                <div class="col-lg-12">
-                                    <a href="">
-                                        <p class="p_boton white-text pt-2 font-weight-bold"><?php echo $btn_info; ?></p>
-                                    </a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-
-
-                </div>
-                <!--/.Card-->
-            </div>
-            <!-- Grid column -->
-
-            <!-- Grid column -->
-            <div class="col-lg-4 col-md-6 col-sm-12 pb-5">
-                <!--Card-->
-                <div class="card wow zoomIn" data-wow-delay="0.2s">
-                    <!--Card image-->
-                    <div class="waves-effect waves-light zoom" style="cursor: auto;">
                         <img class="w-100" src="images/aventura/a16.jpg" alt="First slide">
                         <div class="fondo16 fondo_day_descrip">
                             <span class="lang white-text font-weight-bold"><?php echo $p_av_tar_day16; ?></span>
@@ -886,59 +834,7 @@ $titulo = 'Andean Tours';
             </div>
             <!-- Grid column -->
 
-            <!-- Grid column -->
-            <div class="col-lg-4 col-md-6 col-sm-12 pb-5">
-                <!--Card-->
-                <div class="card wow zoomIn" data-wow-delay="0.2s">
-                    <!--Card image-->
-                    <div class="waves-effect waves-light zoom" style="cursor: auto;">
-                        <img class="w-100" src="images/aventura/a17.jpg" alt="First slide">
-                        <div class="fondo17 fondo_day_descrip">
-                            <span class="white-text font-weight-bold"><?php echo $p_av_tar_day17; ?></span>
-                        </div>
-                    </div>
-                    <!--Card content-->
-                    <div class="card-body fondo17">
-                        <!--Title-->
-                        <div class="triangulo_figura fondo_triangulo17"></div>
-                        <h6 class="card-title white-text font-weight-bold p_titulo"><?php echo $p_av_tar_title17; ?>
-                        </h6>
-                        <span class="card-title white-text p_subtitulo">Cusco</span>
-                        <!--Text-->
-                    </div>
-
-                    <div class="d-flex flex-row">
-                        <div class="w-80 fondo-secundary">
-                            <div class="card-body">
-                                <p class="card-title white-text text-justify p_descrip">
-                                    <?php echo $p_av_tar_content17; ?></p>
-                                <!--Text-->
-                            </div>
-
-                        </div>
-                        <div class="w-20 flex-shrink-1 fondo-tercero">
-
-                            <div class="">
-                                <div class="col-lg-12 text-center line pt-3">
-                                    <img class="pb-3" src="images/dow.png" alt="First slide">
-                                </div>
-
-                                <div class="col-lg-12">
-                                    <a href="">
-                                        <p class="p_boton white-text pt-2 font-weight-bold"><?php echo $btn_info; ?></p>
-                                    </a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-
-
-                </div>
-                <!--/.Card-->
-            </div>
-            <!-- Grid column -->
-
+         
             <!-- Grid column -->
             <div class="col-lg-4 col-md-6 col-sm-12">
 
