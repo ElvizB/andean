@@ -26,7 +26,8 @@ $titulo = 'Andean Tours';
     <div class="container">
         <div>
             <h1 class="h1-responsive font-weight-bold text-center pt-4 wow fadeInUp" data-wow-delay="0.1s">
-                <strong><?php echo $p_av_title; ?></strong></h1>
+                <strong><?php echo $p_av_title; ?></strong>
+            </h1>
             <p class="text-justify text-md-center py-3 wow fadeInUp" data-wow-delay="0.3s">
                 <?php echo $p_av_subtitle;?><br><?php echo $p_av_subtitle2;?> </p>
         </div>
@@ -638,8 +639,7 @@ $titulo = 'Andean Tours';
                     <div class="card-body fondo12">
                         <!--Title-->
                         <div class="triangulo_figura fondo_triangulo12"></div>
-                        <h6 class="card-title white-text font-weight-bold p_titulo"><?php echo $p_av_tar_title12; ?>
-                        </h6>
+                        <h6 class="card-title white-text font-weight-bold p_titulo">WAQRA PUKARA </h6>
                         <span class="card-title white-text p_subtitulo">Huaraz</span>
                         <!--Text-->
                     </div>
@@ -834,7 +834,7 @@ $titulo = 'Andean Tours';
             </div>
             <!-- Grid column -->
 
-         
+
             <!-- Grid column -->
             <div class="col-lg-4 col-md-6 col-sm-12">
 

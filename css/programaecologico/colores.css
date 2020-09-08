@@ -1,4 +1,4 @@
-.fondo{
+.fondo {
   background: #009e76;
 }
 
@@ -6,7 +6,7 @@
   border-bottom: 20px solid #009e76;
 }
 
-.fondo2{
+.fondo2 {
   background: #008973;
 }
 
@@ -14,7 +14,7 @@
   border-bottom: 20px solid #008973;
 }
 
-.fondo3{
+.fondo3 {
   background: #00898a;
 }
 
@@ -22,7 +22,7 @@
   border-bottom: 20px solid #00898a;
 }
 
-.fondo4{
+.fondo4 {
   background: #5aa76c;
 }
 
@@ -30,7 +30,7 @@
   border-bottom: 20px solid #5aa76c;
 }
 
-.fondo5{
+.fondo5 {
   background: #5b9944;
 }
 
@@ -38,7 +38,7 @@
   border-bottom: 20px solid #5b9944;
 }
 
-.fondo6{
+.fondo6 {
   background: #d98959;
 }
 
@@ -46,7 +46,7 @@
   border-bottom: 20px solid #d98959;
 }
 
-.fondo7{
+.fondo7 {
   background: #ff8188;
 }
 
@@ -54,7 +54,7 @@
   border-bottom: 20px solid #ff8188;
 }
 
-.fondo8{
+.fondo8 {
   background: #ca638d;
 }
 
@@ -62,7 +62,7 @@
   border-bottom: 20px solid #ca638d;
 }
 
-.fondo9{
+.fondo9 {
   background: #866aff;
 }
 
@@ -70,7 +70,7 @@
   border-bottom: 20px solid #866aff;
 }
 
-.fondo10{
+.fondo10 {
   background: #868aff;
 }
 
@@ -78,7 +78,7 @@
   border-bottom: 20px solid #868aff;
 }
 
-.fondo11{
+.fondo11 {
   background: #96a9ff;
 }
 
@@ -87,16 +87,13 @@
 }
 
 .fondo_eco {
-    position: absolute;
-    z-index: 1;
-    top: 0rem;
-    left: 0rem;
-    background: #00000052;
-    padding: 5px;
-    box-sizing: border-box;
-    display: flex;
-    align-items: center;
-}
-h6{
-  font-size: .9rem !important;
+  position: absolute;
+  z-index: 1;
+  top: 0rem;
+  left: 0rem;
+  background: #00000052;
+  padding: 5px;
+  box-sizing: border-box;
+  display: flex;
+  align-items: center;
 }

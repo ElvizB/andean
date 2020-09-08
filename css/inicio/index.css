@@ -7,6 +7,33 @@
 .oculto {
   overflow: hidden;
 }
+h6 {
+  font-size: 14px;
+}
+
+@font-face {
+  font-family: "Futura Bold";
+  src: url("../../fonts/Futura-Bold.ttf");
+}
+
+@font-face {
+  font-family: "Futura Book";
+  src: url("../../fonts/Futura-Book.ttf");
+}
+
+@font-face {
+  font-family: "Futura Heavy";
+  src: url("../../fonts/Futura-Heavy.ttf");
+}
+
+@font-face {
+  font-family: "Futura Light";
+  src: url("../../fonts/Futura-Light.ttf");
+}
+@font-face {
+  font-family: "Futura Medium";
+  src: url("../../fonts/Futura-Medium.ttf");
+}
 
 #mdb-preloader.loaded {
   opacity: 0;
@@ -53,6 +80,7 @@
   width: 70%;
   margin: auto;
   padding: 13px 0px 1px 0px;
+  font-family: "Futura Medium";
 }
 
 /*
@@ -63,6 +91,10 @@ margin: auto;
 
 }
 */
+
+.nav-height {
+  height: 100px;
+}
 
 .recent-project {
   position: relative;
@@ -207,6 +239,29 @@ color: #fff;
 }
 .navbar-nav .dropdown-menu {
   position: absolute !important;
+}
+.title-home h1 {
+  font-family: "Futura Book";
+}
+
+.title-home h2 {
+  font-family: "Futura Heavy";
+}
+.title-home p {
+  font-family: "Futura Light";
+}
+.title-footer h6 {
+  font-family: "Futura Heavy";
+}
+.footer-c p {
+  font-family: "Futura Light";
+}
+.footer-c span {
+  font-family: "Futura Light";
+}
+.nav-title a {
+  color: white !important;
+  font-family: "Futura Medium";
 }
 
 @media (max-width: 767px) {

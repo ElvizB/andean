@@ -1,36 +1,45 @@
-.color-blue{
+.color-blue {
   color: #008acb !important;
 }
-#contacto{
+#contacto {
   background: url(../../images/contactos/fondoC.jpg) no-repeat top;
   background-attachment: fixed;
   padding-top: 6rem;
   padding-bottom: 6rem;
   background-size: 100% 100%;
-
 }
 
-.md-form label{
+.md-form label {
   font-size: 0.8rem !important;
 }
 
-.card{
-
-  background: rgb(0, 138, 203,.5) !important;
+.card {
+  background: rgb(0, 138, 203, 0.5) !important;
 }
-.md-form label{
+.md-form label {
   color: white !important;
 }
 
-.md-form input[type=date], .md-form input[type=datetime-local], .md-form input[type=email], .md-form input[type=number], .md-form input[type=password], .md-form input[type=search-md], .md-form input[type=search], .md-form input[type=tel], .md-form input[type=text], .md-form input[type=time], .md-form input[type=url], .md-form textarea.md-textarea{
-  color:white !important;
+.md-form input[type="date"],
+.md-form input[type="datetime-local"],
+.md-form input[type="email"],
+.md-form input[type="number"],
+.md-form input[type="password"],
+.md-form input[type="search-md"],
+.md-form input[type="search"],
+.md-form input[type="tel"],
+.md-form input[type="text"],
+.md-form input[type="time"],
+.md-form input[type="url"],
+.md-form textarea.md-textarea {
+  color: white !important;
 }
 
-.pt-7{
+.pt-7 {
   padding-top: 12em !important;
 }
 
-.btnfondo{
+.btnfondo {
   background-color: #008acb;
   color: white !important;
   border-radius: 2rem !important;
@@ -40,8 +49,23 @@
 .btnfondo :hover {
   text-decoration: underline white !important;
 }
-hr{
-    width: 76%;
-    background: white !important;
-    margin-top: 0rem !important;
+hr {
+  width: 76%;
+  background: white !important;
+  margin-top: 0rem !important;
+}
+
+.testimonial span {
+  font-family: "Futura Heavy";
+}
+.title-contacto h1 {
+  color: white;
+  text-align: center;
+  font-family: "Futura Heavy";
+}
+
+.title-contacto h5 {
+  color: white;
+  text-align: center;
+  font-family: "Futura Light";
 }

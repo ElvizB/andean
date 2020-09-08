@@ -28,10 +28,11 @@ $titulo = 'Andean Tours';
 
     <div class="container">
 
-        <div>
-            <p class="text-justify py-3 wow fadeInUp" data-wow-delay="0.1s"><?php echo $t_descrip; ?></p>
-            <h1 class="h1-responsive font-weight-bold text-center wow fadeInUp" data-wow-delay="0.3s" key="t_descrip2">
-                <strong><?php echo $t_descrip2; ?></strong></h1>
+        <div class="title-agencia">
+            <p class="wow fadeInUp" data-wow-delay="0.1s"><?php echo $t_descrip; ?></p>
+            <h1 class="h1-responsive wow fadeInUp" data-wow-delay="0.3s" key="t_descrip2">
+                <strong><?php echo $t_descrip2; ?></strong>
+            </h1>
 
         </div>
 
@@ -55,8 +56,9 @@ $titulo = 'Andean Tours';
                 <div class="col-lg-8 mb-lg-0 mb-4">
 
                     <div class="wow fadeInUp" data-wow-delay="0.3s">
-                        <h1 class="h1-responsive font-weight-bold text-center white-text"
-                            style="border-bottom: 2px solid white;"><?php echo $t_descrip3; ?></h1>
+                        <h1 class="h1-responsive title-description-contact">
+                            <?php echo $t_descrip3; ?>
+                        </h1>
 
                     </div>
 

@@ -13,7 +13,7 @@ $sub_menu_culinaria='Culinary Experience Programs';
 $menu_destinos='DESTINATIONS';
 $menu_contacto='CONTACT US';
 $menu_contacto_movil='Contac Us';
-$menu_trabaja='WORK WITH US';
+$menu_trabaja='TRAVEL AGENTS';
 //fin del menu
 $Inicio_bienvenido='Welcome to Peru';
 $Inicio_elige='Choose your destination in Peru with us';
@@ -28,9 +28,9 @@ $i_siguenos='Follow us :';
 $i_contactos='Contacts :';
 $i_miembros='Members of :';
 $i_libros='Complaints book :';
-$derechos_reservados='©2019 ANDEAN TOURS - All rights reserved';
+//$derechos_reservados='©2019 ANDEAN TOURS - All rights reserved';
 //page - nosotros
-$n_desc1="“We are a receptive tour operator with more than 32 years of experience in the local and international market, which allows us to provide a quality service to all our customers. Our specialty is to design any type of trip according to the need of each traveler, whether to know the culture of our country, take a walk through the Andes or explore our wonderful jungle ”";
+$n_desc1="Andean Tours SRL is a company established in 1988. We are a receptive tour operator with a lot of experience in the local and international market, which allows us to provide a quality service to all our clients. Our specialty is designing tailor-made trips according to the needs of each traveler, whether it is to know the culture of our country, take a walk through the Andes or explore our wonderful jungle.";
 $n_desc2="e invite you to contact us and tell us what you would like to do in Peru,leave the rest in our hands!";
 $n_titulo="WHY TRAVEL WITH US?";
 $n_item1="We have more than 32 years offering services as Tour Operator.";
@@ -215,6 +215,8 @@ $p_g_tar_content9='Relive the history of one of the oldest wine and Pisco wineri
 $p_g_hacienda='In Hacienda Queirolo';
 
 //programa de lujos
+$des_salkantay='Under this program the Salcantay Trek to Machupicchu is carried out, the difference is that you spend the night in Domes, which gives more comfort to the trip...';
+
 $p_l_ex='EXTENSIONS';
 $p_l_title='LUXURY PROGRAMS';
 $p_l_subtitle='"Visit Peru and experience its amazing destinations with the comfort and luxury offered by the best hotels, trains and services in each destination."';
@@ -381,7 +383,7 @@ $p_av_tar_content8='About 100 km southeast of Cusco, there is a rainbow made mou
 //fin-tarjeta
 
 //tarjeta
-$p_av_tar_day9='2 DAYS / 1 NIGHT';
+$p_av_tar_day9='1 DAY';
 $p_av_tar_content9='Palcoyo offers three mountains of colors resting in the most complete peace, he has nothing to envy his most popular sister (Vinicunca), considering that his access is ...';
 //fin-tarjeta
 
@@ -399,8 +401,7 @@ $p_av_tar_content11='Tour the most important destinations of the city of Cusco a
 
 //tarjeta
 $p_av_tar_day12='1 DAY';
-$p_av_tar_title12='LAGOON 69';
-$p_av_tar_content12='It is one of the most beautiful lagoons in Peru and one of the best treks you can do in Peru. It only takes one day to visit it.';
+$p_av_tar_content12='It is a fortress that is located south of Cusco. It is a walk of 6 hours in total where we will have the opportunity to walk in the middle of landscapes, fauna and above all to know this incredible archaeological center';
 //fin-tarjeta
 
 //tarjeta

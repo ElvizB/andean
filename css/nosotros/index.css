@@ -1,7 +1,36 @@
-#nosotros{
+#nosotros {
   background: url(../../images/nosotros/bannerNosotros.jpg) no-repeat top;
   background-attachment: fixed;
   padding-top: 6rem;
   padding-bottom: 6rem;
   background-size: 100% 100%;
+}
+
+.subtitle-uno {
+  text-align: justify;
+  font-size: 19px;
+  font-family: "Futura Light";
+}
+
+.subtitle-dos {
+  text-align: justify;
+  font-size: 19px;
+  font-family: "Futura Heavy";
+}
+
+.title-viaje {
+  color: white;
+  font-family: "Futura Heavy";
+  padding-bottom: 1.5em;
+}
+
+.testimonial p {
+  font-family: "Futura Light";
+}
+
+.title-descriptions-map {
+  color: black;
+  font-family: "Futura Light";
+  font-size: 16px;
+  padding: 4em 0;
 }

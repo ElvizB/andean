@@ -13,7 +13,7 @@ $sub_menu_culinaria='Programas de Experiencia Culinaria';
 $menu_destinos='DESTINOS';
 $menu_contacto='CONTÁCTANOS';
 $menu_contacto_movil='Contáctanos';
-$menu_trabaja='TRABAJA CON NOSOTROS';
+$menu_trabaja='AGENTES DE VIAJE';
 //fin del menu
 $Inicio_bienvenido='Bienvenido a Perú';
 $Inicio_elige='Elige tu destino en Perú con nosotros';
@@ -28,9 +28,9 @@ $i_siguenos='Síguenos :';
 $i_contactos='Contactos :';
 $i_miembros='Miembros de :';
 $i_libros='Libro de reclamaciones :';
-$derechos_reservados='©2019 ANDEAN TOURS - Todos los derechos reservados';
+//$derechos_reservados='©2019 ANDEAN TOURS - Todos los derechos reservados';
 //page - nosotros
-$n_desc1="“Somos un tour operador receptivo con mas de 32 años de experiencia en el mercado local e internacional, lo cual nos permite poder brindar un servicio de calidad a todos nuestros clientes. Nuestra especialidad es diseñar cualquier tipo de viaje de acuerdo con la necesidad de cada viajero, ya sea por conocer la cultura de nuestro país,realizar una caminata por los andes o explorar nuestra maravillosa selva”";
+$n_desc1="Andean Tours SRL es una empresa constituida en 1988. Somos un tour operador receptivo con bastante experiencia en el mercado local e internacional, lo cual nos permite poder brindar un servicio de calidad a todos nuestros clientes. Nuestra especialidad es diseñar viajes a la medida de acuerdo a la necesidad de cada viajero, ya sea por conocer la cultura de nuestro país, realizar una caminata por los andes o explorar nuestra maravillosa selva.";
 $n_desc2="Te invitamos a contactarnos y contarnos que te gustaría hacer en Peru, ¡El resto déjalo en nuestras manos!";
 $n_titulo="¿POR QUÉ VIAJAR CON NOSOTROS?";
 $n_item1="Tenemos más de 32 años ofreciendo servicios como Tour Operador.";
@@ -212,6 +212,8 @@ $p_g_tar_content9='Revive la historia de una de las bodegas de Vino y Pisco más
 $p_g_hacienda='En Hacienda Queirolo';
 
 //programa de lujos
+$des_salkantay='Bajo este programa se realiza la Caminata al Salcantay con destino a Machupicchu, la diferencia es que se pernocta en Domos, lo cual le da mas comodidad al viaje...';
+
 $p_l_ex='EXTENSIONES';
 $p_l_title='PROGRAMAS DE LUJO';
 $p_l_subtitle='"Visita el Perú y experimenta sus asombrosos destinos con la comodidad y lujo que ofrecen los mejores hoteles, trenes y servicios en cada destino."';
@@ -381,7 +383,7 @@ $p_av_tar_content8='A unos 100 km al sureste de Cusco, existe un arcoíris hecho
 //fin-tarjeta
 
 //tarjeta
-$p_av_tar_day9='2 DÍAS / 1 NOCHE';
+$p_av_tar_day9='1 DÍA';
 $p_av_tar_content9='Palcoyo ofrece tres montañas de colores descansando en la más completa paz, no tiene nada que envidiar a su hermana más popular (Vinicunca), considerando que su acceso es..';
 //fin-tarjeta
 
@@ -399,8 +401,7 @@ $p_av_tar_content11='Recorre los destinos más importantes de la ciudad del Cusc
 
 //tarjeta
 $p_av_tar_day12='1 DÍA';
-$p_av_tar_title12='LAGUNA 69';
-$p_av_tar_content12='Es una de las lagunas más hermosas del Peru y uno de los mejores treks que puedes hacer en Perú. Solo se necesita de un día para visitarlo.';
+$p_av_tar_content12='Es una fortaleza que se encuentra al sur de Cusco. Es una caminata de 6 horas en total donde tendremos la oportunidad de caminar en medio de paisajes, fauna y sobre todo conocer este increíble centro arqueologico';
 //fin-tarjeta
 
 //tarjeta
