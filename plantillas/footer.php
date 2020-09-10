@@ -89,32 +89,11 @@
                 <h6 class=" mb-5 wow fadeIn" data-wow-delay="0.3s"><?php echo $i_libros; ?></h6>
 
 
-                <img src="<?php echo RUTA_IMG?>footer/libro.png" class="img-fluid wow flipInY" data-wow-delay="0.3s"
-                    alt="Responsive image" data-toggle="modal" data-target="#g_3">
-                <!-- Modal: modalCart -->
-                <div class="modal fade" id="g_3" tabindex="-1" role="dialog" aria-labelledby="myModalLabel"
-                    aria-hidden="true">
-
-                    <!-- Change class .modal-sm to change the size of the modal -->
-                    <div class="modal-dialog modal-lg" role="document">
-                        <div class="modal-content">
-                            <div class="modal-header bg-modal">
-                                <h4 class="modal-title w-100" id="myModalLabel"></h4>
-                                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                    <span aria-hidden="true">&times;</span>
-                                </button>
-                            </div>
-                            <div class="">
-                                <div class="img_galaria_modal text-center">
-                                    <img src="<?php echo RUTA_IMG?>libro.png" class="" alt="Sample avatar">
-                                </div>
-                            </div>
-
-                        </div>
-                    </div>
-                </div>
-                <!-- Modal: modalCart -->
-
+                <a href="<?php echo RUTA_IMG?>libro-de-reclamaciones.pdf" download="libro-de-reclamaciones"
+                    class="btn-life">
+                    <img src="<?php echo RUTA_IMG?>footer/libro.png" class="img-fluid wow flipInY" data-wow-delay="0.3s"
+                        alt="Responsive image">
+                </a>
             </div>
             <!-- Grid column -->
 
