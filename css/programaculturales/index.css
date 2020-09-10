@@ -7,17 +7,21 @@
 
 .p_titulo {
   margin-bottom: 0rem !important;
+  font-family: "Futura Heavy";
 }
 .p_subtitulo {
   font-size: 0.6rem !important;
+  font-family: "Futura Light";
 }
 
 .p_descrip {
   font-size: 0.7rem !important;
+  font-family: "Futura Medium";
 }
 .p_boton {
   font-size: 0.5rem !important;
   text-align: center !important;
+  font-family: "Futura Heavy";
 }
 
 .line {
@@ -39,6 +43,7 @@
   box-sizing: border-box;
   border-radius: 15px;
   font-size: 0.7rem !important;
+  font-family: "Futura Heavy";
 }
 
 .triangulo_figura {
@@ -65,6 +70,23 @@
   padding: 8px;
   box-sizing: border-box;
   width: 100%;
+  font-family: "Futura Medium";
+}
+.u-title-programs {
+  text-align: center;
+  padding: 1.5em 0;
+}
+.u-title-programs h1 {
+  font-family: "Futura Heavy";
+  padding-bottom: 0.5em;
+}
+.u-title-programs p {
+  font-family: "Futura Light";
+}
+
+.u-subtitle-progromas h1 {
+  padding-top: 1.5em;
+  font-family: "Futura Heavy";
 }
 
 /*

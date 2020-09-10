@@ -67,11 +67,11 @@ $titulo = 'Andean Tours';
 
 <div class="pt-5 pb-4">
     <div class="container">
-        <div>
-            <h1 class="h1-responsive font-weight-bold text-center pt-4 wow fadeInUp" data-wow-delay="0.1s">
-                <strong><?php echo $p_l_title; ?></strong>
+        <div class="u-title-programs">
+            <h1 class="h1-responsive wow fadeInUp" data-wow-delay="0.1s">
+                <?php echo $p_l_title; ?>
             </h1>
-            <p class="text-justify text-md-center py-3 wow fadeInUp" data-wow-delay="0.3s"><?php echo $p_l_subtitle; ?>
+            <p class="wow fadeInUp" data-wow-delay="0.3s"><?php echo $p_l_subtitle; ?>
             </p>
         </div>
         <!-- Grid row -->
@@ -398,9 +398,9 @@ $titulo = 'Andean Tours';
         </div>
         <!-- Grid row -->
 
-        <div class="pb-4">
-            <h1 class="h1-responsive font-weight-bold wow fadeInUp" data-wow-delay="0.3s">
-                <strong><?php echo $p_l_ex; ?></strong>
+        <div class="u-subtitle-progromas">
+            <h1 class="h1-responsive wow fadeInUp" data-wow-delay="0.3s">
+                <?php echo $p_l_ex; ?>
             </h1>
             <hr style="border-top: 1px solid #000000;width:100% !important;">
         </div>

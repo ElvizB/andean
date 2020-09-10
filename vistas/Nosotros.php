@@ -271,19 +271,19 @@ $titulo = 'Andean Tours';
                     <div class="mt-4 text-justify wow fadeInUp" data-wow-delay="0.7s">
                         <p style="margin-bottom: 0.3rem;">
                             <img src="images/nosotros/check.png" class="img-fluid" alt="Responsive image">
-                            <span><?php echo $n_desc_v1; ?></span>
+                            <span class="list-about"><?php echo $n_desc_v1; ?></span>
                         </p>
                         <p style="margin-bottom: 0.3rem;">
                             <img src="images/nosotros/check.png" class="img-fluid" alt="Responsive image">
-                            <span><?php echo $n_desc_v2; ?></span>
+                            <span class="list-about"><?php echo $n_desc_v2; ?></span>
                         </p>
                         <p style="margin-bottom: 0.3rem;">
                             <img src="images/nosotros/check.png" class="img-fluid" alt="Responsive image">
-                            <span><?php echo $n_desc_v3; ?>.</span>
+                            <span class="list-about"><?php echo $n_desc_v3; ?>.</span>
                         </p>
                         <p style="margin-bottom: 0.3rem;">
                             <img src="images/nosotros/check.png" class="img-fluid" alt="Responsive image">
-                            <span><?php echo $n_desc_v4; ?></span>
+                            <span class="list-about"><?php echo $n_desc_v4; ?></span>
                         </p>
                     </div>
                     <!--Review-->

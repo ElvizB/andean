@@ -1,28 +1,28 @@
-.fondo{
-  background: #da5963 ;
+.fondo {
+  background: #da5963;
 }
 
 .fondo_triangulo {
   border-bottom: 20px solid #da5963;
 }
 
-.fondo2{
-  background:  #9f5e55;
+.fondo2 {
+  background: #9f5e55;
 }
 
 .fondo_triangulo2 {
   border-bottom: 20px solid #9f5e55;
 }
 
-.fondo3{
-  background:  #009e76;
+.fondo3 {
+  background: #009e76;
 }
 
 .fondo_triangulo3 {
   border-bottom: 20px solid #009e76;
 }
 
-.fondo4{
+.fondo4 {
   background: #ff7929;
 }
 
@@ -30,7 +30,7 @@
   border-bottom: 20px solid #ff7929;
 }
 
-.fondo5{
+.fondo5 {
   background: #0089bb;
 }
 
@@ -38,7 +38,7 @@
   border-bottom: 20px solid #0089bb;
 }
 
-.fondo6{
+.fondo6 {
   background: #d1996c;
 }
 
@@ -46,7 +46,7 @@
   border-bottom: 20px solid #d1996c;
 }
 
-.fondo7{
+.fondo7 {
   background: #ff7288;
 }
 
@@ -54,7 +54,7 @@
   border-bottom: 20px solid #ff7288;
 }
 
-.fondo8{
+.fondo8 {
   background: #858aff;
 }
 
@@ -62,7 +62,7 @@
   border-bottom: 20px solid #858aff;
 }
 
-.fondo9{
+.fondo9 {
   background: #0aa3ff;
 }
 
@@ -80,6 +80,6 @@
   box-sizing: border-box;
   display: flex;
   align-items: center;
-  font-size: .8rem;
+  font-size: 0.8rem;
+  font-family: "Futura Heavy";
 }
-

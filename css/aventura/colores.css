@@ -8,6 +8,7 @@
   box-sizing: border-box;
   display: flex;
   align-items: center;
+  font-family: "Futura Heavy";
 }
 .fondo {
   background: #0aa3ff;

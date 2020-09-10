@@ -1,5 +1,4 @@
-
-.fondo{
+.fondo {
   background: #d1996c;
 }
 
@@ -7,7 +6,7 @@
   border-bottom: 20px solid #d1996c;
 }
 
-.fondo2{
+.fondo2 {
   background: #ad7d49;
 }
 
@@ -15,7 +14,7 @@
   border-bottom: 20px solid #ad7d49;
 }
 
-.fondo3{
+.fondo3 {
   background: #a24242;
 }
 
@@ -23,7 +22,7 @@
   border-bottom: 20px solid #a24242;
 }
 
-.fondo4{
+.fondo4 {
   background: #d98959;
 }
 
@@ -31,7 +30,7 @@
   border-bottom: 20px solid #d98959;
 }
 
-.fondo5{
+.fondo5 {
   background: #ca638d;
 }
 
@@ -39,7 +38,7 @@
   border-bottom: 20px solid #ca638d;
 }
 
-.fondo6{
+.fondo6 {
   background: #868aff;
 }
 
@@ -55,5 +54,6 @@
   padding: 5px;
   box-sizing: border-box;
   display: flex;
+  font-family: "Futura Heavy";
   align-items: center;
 }

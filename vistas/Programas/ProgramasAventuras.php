@@ -24,11 +24,11 @@ $titulo = 'Andean Tours';
 <!--/.Carousel Wrapper-->
 <div class="pt-5 pb-4">
     <div class="container">
-        <div>
-            <h1 class="h1-responsive font-weight-bold text-center pt-4 wow fadeInUp" data-wow-delay="0.1s">
-                <strong><?php echo $p_av_title; ?></strong>
+        <div class="u-title-programs">
+            <h1 class="h1-responsive wow fadeInUp" data-wow-delay="0.1s">
+                <?php echo $p_av_title; ?>
             </h1>
-            <p class="text-justify text-md-center py-3 wow fadeInUp" data-wow-delay="0.3s">
+            <p class="wow fadeInUp" data-wow-delay="0.3s">
                 <?php echo $p_av_subtitle;?><br><?php echo $p_av_subtitle2;?> </p>
         </div>
         <!-- Grid row -->
